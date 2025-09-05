@@ -17,6 +17,7 @@
   </a>
 </div>
 
+<div align="center">
 Longrong Yang, Zhixiong Zeng*, Yufeng Zhong, Jing Huang, Liming Zheng, <br>
 Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma†, Xi Li†
 </div>
