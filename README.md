@@ -3,10 +3,9 @@
 </div>
 
 <div align="center">
-  <!-- arXiv 徽章：链接与显示编号保持一致 -->
   <a href='https://arxiv.org/abs/2509.02322'>
     <img src='https://img.shields.io/badge/ArXiv-2509.02322-b31b1b.svg?logo=arXiv'>
-  </a>&ensp;
+  </a>;
   <!-- Hugging Face 模型集合链接（若需启用可取消注释） -->
   <!-- <a href='https://huggingface.co/collections/DocTron/chart-r1-68834834a239e09e9abcb5f4'>
     <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face%20-models-blue'>
