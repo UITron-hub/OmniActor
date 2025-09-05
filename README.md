@@ -7,7 +7,7 @@
 <img src='https://img.shields.io/badge/License-Apache_2.0-green.svg'></a>
 
 
-Longrong Yang, Zhixiong Zeng*, Yufeng Zhong, Jing Huang, Liming Zheng, Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma†, Xi Li†
+Longrong Yang, Zhixiong Zeng*, Yufeng Zhong, Jing Huang, Liming Zheng, Lei Chen, \\ Haibo Qiu, Zequn Qin, Lin Ma†, Xi Li†
 </div>
 <div align="center">
 <strong>Meituan Group</strong>
@@ -20,7 +20,7 @@ Longrong Yang, Zhixiong Zeng*, Yufeng Zhong, Jing Huang, Liming Zheng, Lei Chen,
 ---
 **OmniActor** is an open-source high-performance generalist agent for GUI tasks in the 2D virtual world and embodied tasks in the 3D real world. OmniActor proposes Layer-heterogeneity MoE to eliminate the conflict between GUI and embodied data by separating deep-layer parameters, while leverage their synergy by sharing shallow-layer parameters, resembling the cerebrum-cerebellum mechanism in the human brain. By successfully leveraging the synergy and eliminating the conflict, OmniActor outperforms agents only trained by GUI or embodied data in GUI or embodied tasks. Furthermore, OmniActor unifies the action spaces of GUI and embodied tasks, and collect large-scale GUI and embodied data from various sources for training. This significantly improves OmniActor under different environments.
 <div align="center">
-<img src="./fig/pipeline.png"  width="60%">
+<img src="./fig/pipeline.png"  width="80%">
 </div>
 
 ## 📢 News and Updates
