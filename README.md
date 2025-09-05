@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>OmniActor: A Generalist GUI and Embodied Agent for 2D\&3D Worlds</h1>
+  <h1>OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds</h1>
 </div>
 
 <div align="center">
@@ -7,13 +7,13 @@
 <img src='https://img.shields.io/badge/License-Apache_2.0-green.svg'></a>
 
 
-Longrong Yang, Zhixiong Zeng, Yufeng Zhong, Jing Huang, Liming Zheng, Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma, Xi Li
+Longrong Yang, Zhixiong Zeng*, Yufeng Zhong, Jing Huang, Liming Zheng, Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma†, Xi Li†
 </div>
 <div align="center">
 <strong>Meituan Group</strong>
 </div>
 <div align="center">
-† Equal contribution; * Corresponding Author
+† Corresponding authors. * Project leader.
 </div>
 
 
