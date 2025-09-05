@@ -39,9 +39,9 @@ Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma†, Xi Li†
 | OmniActor             | Qwen2-VL 7B  | -             |
 
 ## 📊 Performance
-### ScreenSpot
+### Comparison between different agents on embodied tasks and GUI tasks
 <div align="center">
-<img src="./fig/result.png"  width="80%">
+<img src="./fig/result.png"  width="100%">
 </div>
 
 ## 📌 Acknowledgement
