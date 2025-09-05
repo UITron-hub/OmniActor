@@ -25,7 +25,7 @@ Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma†, Xi Li†
 </div>
 
 ## 📢 News and Updates
-* ```2025.09.05``` Code and model are coming soon.
+* ```2025.09.05``` Codes and models are coming soon.
 * ```2025.09.05``` 🔥🔥🔥 We release the technical report of **OmniActor**.
 
 
@@ -38,10 +38,26 @@ Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma†, Xi Li†
 | OmniActor hard        | Qwen2-VL 7B  | -             |
 | OmniActor             | Qwen2-VL 7B  | -             |
 
+OmniActor-GUI: Use GUI data to train.
+
+OmniActor-EA: Use embodied data to train.
+
+OmniActor-EA&GUI: Mix GUI and embodied data to train.
+
+OmniActor hard: Mix GUI and embodied data to train. Parameters of attention heads, FFNs, and classification heads are totally separated.
+
+OmniActor: Mix GUI and embodied data to train. Parameters in shallow layers are shared, and parameters in deep layers are separated.
+
+
 ## 📊 Performance
-### Comparison between different agents on embodied tasks and GUI tasks
+### Comparison between different agents on embodied tasks and GUI tasks:
 <div align="center">
 <img src="./fig/result.png"  width="100%">
+</div>
+
+### Study about different OmniActor variants:
+<div align="center">
+<img src="./fig/result_study.png"  width="100%">
 </div>
 
 ## 📌 Acknowledgement
