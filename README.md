@@ -5,6 +5,7 @@
 <div align="center">
 <!-- <a href='https://arxiv.org/abs/2507.15509'><img src='https://img.shields.io/badge/Arxiv-2507.15509-b31b1b.svg?logo=arXiv'></a>&ensp;<a href='https://huggingface.co/collections/DocTron/chart-r1-68834834a239e09e9abcb5f4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face%20-models-blue'></a>&ensp;<a href=https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE><img src='https://img.shields.io/badge/License-Apache_2.0-green.svg'></a> -->
 <img src='https://img.shields.io/badge/License-Apache_2.0-green.svg'></a>
+[![arXiv](https://img.shields.io/badge/Arxiv-2401.15947-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2509.02322) 
 
 
 Longrong Yang, Zhixiong Zeng*, Yufeng Zhong, Jing Huang, Liming Zheng, <br>
