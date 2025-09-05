@@ -36,7 +36,7 @@ Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma†, Xi Li†
 | OmniActor-EA          | Qwen2-VL 7B  | -             |
 | OmniActor-EA&GUI      | Qwen2-VL 7B  | -             |
 | OmniActor hard        | Qwen2-VL 7B  | -             |
-| OmniActor             | Qwen2-VL 7B  | -             |
+| OmniActor             | Qwen2-VL 7B  | [7LRY/OmniActor](https://huggingface.co/7LRY/OmniActor)             |
 
 * OmniActor-GUI: Use GUI data to train the base MLLM.
 
