@@ -5,7 +5,7 @@
 <div align="center">
   <a href='https://arxiv.org/abs/2509.02322'>
     <img src='https://img.shields.io/badge/ArXiv-2509.02322-b31b1b.svg?logo=arXiv'>
-  </a>&ensp;
+  </a>
   <a href='https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE'>
     <img src='https://img.shields.io/badge/License-Apache_2.0-green.svg'>
   </a>
