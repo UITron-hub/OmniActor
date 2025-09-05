@@ -38,15 +38,15 @@ Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma†, Xi Li†
 | OmniActor hard        | Qwen2-VL 7B  | -             |
 | OmniActor             | Qwen2-VL 7B  | -             |
 
-OmniActor-GUI: Use GUI data to train.
+* OmniActor-GUI: Use GUI data to train.
 
-OmniActor-EA: Use embodied data to train.
+* OmniActor-EA: Use embodied data to train.
 
-OmniActor-EA&GUI: Mix GUI and embodied data to train.
+* OmniActor-EA&GUI: Mix GUI and embodied data to train.
 
-OmniActor hard: Mix GUI and embodied data to train. Parameters of attention heads, FFNs, and classification heads are totally separated.
+* OmniActor hard: Mix GUI and embodied data to train. Parameters of attention heads, FFNs, and classification heads are totally separated.
 
-OmniActor: Mix GUI and embodied data to train. Parameters in shallow layers are shared, and parameters in deep layers are separated.
+* OmniActor: Mix GUI and embodied data to train. Parameters in shallow layers are shared, and parameters in deep layers are separated.
 
 
 ## 📊 Performance
