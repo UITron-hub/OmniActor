@@ -7,8 +7,7 @@
 <img src='https://img.shields.io/badge/License-Apache_2.0-green.svg'></a>
 
 
-Longrong Yang, Zhixiong Zeng*, Yufeng Zhong, Jing Huang, Liming Zheng, 
-
+Longrong Yang, Zhixiong Zeng*, Yufeng Zhong, Jing Huang, Liming Zheng, <br>
 Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma†, Xi Li†
 </div>
 <div align="center">
